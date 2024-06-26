@@ -46,9 +46,9 @@ mkdir ~\AppData\Local\nvim\lua\kickstart\plugins
 mklink "%UserProfile%\AppData\Local\nvim\README.md" "%UserProfile%\cult_of_vim\nvim\README.md"
 mklink "%UserProfile%\AppData\Local\nvim\init.lua" "%UserProfile%\cult_of_vim\nvim\init.lua"
 mklink "%UserProfile%\AppData\Local\nvim\lazy-lock.json" "%UserProfile%\cult_of_vim\nvim\lazy-lock.json"
-mklink "%UserProfile%\AppData\Local\nvim\doc\kickstart.txt" "%UserProfile%\cult_of_vim\nvim\doc\kickstart.txt
+mklink "%UserProfile%\AppData\Local\nvim\doc\kickstart.txt" "%UserProfile%\cult_of_vim\nvim\doc\kickstart.txt"
 mklink "%UserProfile%\AppData\Local\nvim\doc\tags" "%UserProfile%\cult_of_vim\nvim\doc\tags"
-mklink "%UserProfile%\AppData\Local\nvim\lua\custom\plugins\init.lua" "%UserProfile%\cult_of_vim\nvim\lua\custom\plugins\init.lua
+mklink "%UserProfile%\AppData\Local\nvim\lua\custom\plugins\init.lua" "%UserProfile%\cult_of_vim\nvim\lua\custom\plugins\init.lua"
 mklink "%UserProfile%\AppData\Local\nvim\lua\kickstart\health.lua" "%UserProfile%\cult_of_vim\nvim\lua\kickstart\health.lua"
 mklink "%UserProfile%\AppData\Local\nvim\lua\kickstart\plugins\debug.lua" "%UserProfile%\cult_of_vim\nvim\lua\kickstart\plugins\debug.lua"
 mklink "%UserProfile%\AppData\Local\nvim\lua\kickstart\plugins\indent_line.lua" "%UserProfile%\cult_of_vim\nvim\lua\kickstart\plugins\indent_line.lua"
